@@ -1,0 +1,3 @@
+W es6 mo¿na zdefiniowaæ klasê, w es5 tylko funkcjê. 
+Deklarowanie zmiennych w es6 za pomoc¹ let, w es5 za pomoc¹ var
+w es5 pojawiaj¹ siê informacje przy funkcjach o policzalnoœci i konfiguralnoœci
